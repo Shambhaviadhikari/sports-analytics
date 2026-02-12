@@ -272,37 +272,7 @@ Coverage failure often occurs within the first few frames post-snap.
 **Football Insight:**  
 Early structural integrity is critical for pass defense success.
 
----
 
-## Project Evaluation
-
-### Strengths
-- Frame-level feature engineering
-- Statistical hypothesis testing
-- Unsupervised clustering with strong silhouette score
-- Predictive modeling component
-- End-to-end visualization suite
-- Animated tracking representation
-
-### Limitations
-- Limited separation sample (88 plays)
-- Sparse route–coverage combinations
-- Simplified efficiency metric
-- Limited modeling feature space
-- No cross-season validation
-
----
-
-## Future Work
-
-- Expand to full-season dataset
-- Add pressure and QB tracking features
-- Incorporate expected completion probability baselines
-- Apply gradient boosting or sequence models
-- Model spatial tensors rather than scalar distances
-- Normalize route efficiency by leverage and depth
-
----
 
 ## Tech Stack
 
@@ -327,3 +297,6 @@ This project demonstrates that:
 - Temporal decay of separation is measurable and consistent
 
 The analysis transitions tracking data from visualization into quantitative, testable football analytics.
+
+Article: https://medium.com/@shambhaviadhikari/nfl-big-data-bowl-2026-e94a31980429
+

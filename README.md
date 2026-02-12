@@ -103,7 +103,7 @@ Marginal spatial gains (~1 yard) significantly alter throwing viability.
 
 ## Position Group Analysis
 
-![Position Analysis](pictures/01_position_analysis.png)
+![Position Analysis](Pictures/01_position_analysis.png)
 
 Average Separation:
 - RB: 7.15 yards

@@ -1,4 +1,4 @@
-# 🏈 NFL Big Data Bowl 2026 — Comprehensive Tracking Analytics
+# NFL Big Data Bowl 2026 — Comprehensive Tracking Analytics
 **Theme:** *“The First 0.5 Seconds: Defensive Reaction & Coverage Failure”*  
 This repo contains **two full end-to-end scripts** (kept intact conceptually) that perform **tracking analytics + modeling + clustering + broadcast-style visualizations** on Big Data Bowl tracking data.
 

@@ -29,7 +29,7 @@ This project analyzes NFL pass plays using player tracking data to quantify:
 
 ## Tracking Visualization (Frame-Level Animation)
 
-![Tracking Animation](pictures/play_animation_simple.gif)
+![Tracking Animation](Pictures/play_animation_simple.gif)
 
 This animation visualizes frame-level player coordinates, ball landing location, and evolving spatial separation.
 
@@ -124,7 +124,7 @@ Position-based separation reflects usage structure more than raw skill different
 
 ## Route–Coverage Interaction
 
-![Route Coverage Heatmap](pictures/02_route_coverage_heatmaps.png)
+![Route Coverage Heatmap](Pictures/02_route_coverage_heatmaps.png)
 
 Examples:
 - CROSS vs Cover 3 Zone: 3.53 yards
@@ -140,7 +140,7 @@ Offensive play design can exploit predictable structural coverage weaknesses.
 
 ## Man vs Zone Coverage
 
-![Man vs Zone](pictures/03_man_vs_zone.png)
+![Man vs Zone](Pictures/03_man_vs_zone.png)
 
 Zone:
 - Avg separation: 3.41 yards
@@ -163,7 +163,7 @@ Defensive scheme choice represents a spatial–risk tradeoff.
 
 ## Defensive Convergence & Reaction Timing
 
-![Defensive Convergence](pictures/04_defensive_convergence.png)
+![Defensive Convergence](Pictures/04_defensive_convergence.png)
 
 - Avg convergence rate: 0.217 yards/frame
 - Avg reaction frame: 8
@@ -180,7 +180,7 @@ The first second after route break is critical for contesting catch windows.
 
 ## Defensive Archetype Clustering
 
-![Defensive Archetypes](pictures/05_defensive_archetypes.png)
+![Defensive Archetypes](Pictures/05_defensive_archetypes.png)
 
 K-Means (k = 4)  
 Silhouette Score: 0.569  
@@ -201,7 +201,7 @@ Tracking-based behavioral archetypes can support personnel evaluation.
 
 ## Temporal Separation Decay
 
-![Temporal Separation](pictures/06_temporal_separation.png)
+![Temporal Separation](Pictures/06_temporal_separation.png)
 
 - Initial separation (frame 1): 3.42 yards  
 - Frame 20: 1.51 yards  
@@ -217,7 +217,7 @@ Delayed quarterback decisions shrink spatial margin predictably.
 
 ## Route Path Efficiency
 
-![Route Efficiency](pictures/07_route_efficiency.png)
+![Route Efficiency](Pictures/07_route_efficiency.png)
 
 - Average efficiency: 1.033  
 - Average wasted yards: 0.084  
@@ -234,7 +234,7 @@ Route geometry and spatial economy are quantifiable performance dimensions.
 
 ## Executive Dashboard
 
-![Executive Dashboard](pictures/08_executive_dashboard.png)
+![Executive Dashboard](Pictures/08_executive_dashboard.png)
 
 Key Metrics:
 - Avg separation: 3.13 yards

@@ -1,6 +1,6 @@
 # NFL Big Data Bowl 2026 – Spatial & Temporal Pass Play Analysis
 
-Frame-level tracking analysis of receiver separation, defensive reaction timing, coverage structure, and route efficiency using the NFL Big Data Bowl 2026 Kaggle dataset.
+Frame-level tracking analysis of receiver separation, defensive reaction timing, coverage structure, and route efficiency using the NFL Big Data Bowl dataset.
 
 ---
 
